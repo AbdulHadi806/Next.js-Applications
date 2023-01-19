@@ -1,0 +1,13 @@
+.NavigationMain {
+    display: flex;
+    justify-content: center;
+    padding: 40px 0 20px 0;
+}
+.NavigationMain nav ul{
+    display: flex;
+    gap: 10px;
+}
+.NavigationMain nav ul li{
+    list-style-type: none;
+    font-weight: 900;
+}
